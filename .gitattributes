@@ -1,5 +1,4 @@
-*.pfa binary
-*.pfb binary
-*.bin binary
-*.pdf binary
-*.ttf binary
+*.pdf diff=pdf
+[diff "pdf"]
+  textconv = pdf2txt.py
+  binary = true
