@@ -8,7 +8,7 @@
 2. SQL Courses
    * [The Complete SQL Bootcamp 2020: Go from Zero to Hero](https://www.udemy.com/certificate/UC-4728b844-3254-4fd4-a268-cff1e25b0f17/)
 3. IBM AI Engineering Professional Certificate
-   * [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/account/accomplishments/verify/9TPL65PZRDRZ)
+   * [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/account/accomplishments/records/9TPL65PZRDRZ)
 
 ## Digital Badges ([Profile](https://www.youracclaim.com/users/shraman-gupta/badges))
 1. [Introduction to Deep Learning & Neural Networks with Keras](https://www.youracclaim.com/badges/4755fb6d-726e-4bc7-ae9c-1f957b43f25b/public_url)
