@@ -11,7 +11,8 @@
    * [Machine Learning with Python](https://www.coursera.org/account/accomplishments/records/7VDM44AWHGGN) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/7VDM44AWHGGN)
    * [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/account/accomplishments/records/9TPL65PZRDRZ) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/9TPL65PZRDRZ)
 4. Coursera Guided Projects
-   * [Basic Image Classification with TensorFlow](https://www.coursera.org/account/accomplishments/verify/KM9B7Q3XTLKV) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/KM9B7Q3XTLKV)    
+   * [Basic Image Classification with TensorFlow](https://www.coursera.org/account/accomplishments/verify/KM9B7Q3XTLKV) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/KM9B7Q3XTLKV)   
+   * [Image Classification with CNNs using Keras](https://www.coursera.org/account/accomplishments/verify/QSK2R6G8Z4CL) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/QSK2R6G8Z4CL)    
    
 
 ## Digital Badges ([Profile](https://www.youracclaim.com/users/shraman-gupta/badges))
