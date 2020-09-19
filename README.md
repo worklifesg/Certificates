@@ -11,6 +11,12 @@
    * [Machine Learning with Python](https://www.coursera.org/account/accomplishments/records/7VDM44AWHGGN) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/7VDM44AWHGGN)
    * [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/account/accomplishments/records/9TPL65PZRDRZ) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/9TPL65PZRDRZ)
 4. Coursera Guided Projects
+
+   **Data Exploration, Data Mining Projects:**
+   * [Exploratory Data Analysis](https://www.coursera.org/account/accomplishments/verify/LJ6M5JHWFRE4) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/LJ6M5JHWFRE4) 
+
+
+   **Deep Learning Projects**
    * [Basic Image Classification with TensorFlow](https://www.coursera.org/account/accomplishments/verify/KM9B7Q3XTLKV) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/KM9B7Q3XTLKV)   
    * [Image Classification with CNNs using Keras](https://www.coursera.org/account/accomplishments/verify/QSK2R6G8Z4CL) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/QSK2R6G8Z4CL)    
    * [Facial Expression Recognition with Keras](https://www.coursera.org/account/accomplishments/verify/KT8WSPK5NBAE) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/KT8WSPK5NBAE)  
