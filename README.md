@@ -14,6 +14,7 @@
 
    **Data Exploration, Data Mining Projects:**
    * [Exploratory Data Analysis](https://www.coursera.org/account/accomplishments/verify/LJ6M5JHWFRE4) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/LJ6M5JHWFRE4) 
+   * [Exploratory Data Analysis with Seaborn](https://www.coursera.org/account/accomplishments/verify/HQCLHC5DMX5S) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/HQCLHC5DMX5S) 
 
 
    **Deep Learning Projects**
