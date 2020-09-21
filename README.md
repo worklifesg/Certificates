@@ -15,8 +15,10 @@
    **Data Exploration, Data Mining Projects:**
    * [Exploratory Data Analysis](https://www.coursera.org/account/accomplishments/verify/LJ6M5JHWFRE4) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/LJ6M5JHWFRE4) 
    * [Exploratory Data Analysis with Seaborn](https://www.coursera.org/account/accomplishments/verify/HQCLHC5DMX5S) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/HQCLHC5DMX5S) 
-
-
+   
+   **Machine Learning Projects:**
+   * [Statistical Data Visualization with Seaborn](https://www.coursera.org/account/accomplishments/verify/LLA5PT8MA7BZ) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/LLA5PT8MA7BZ)
+   
    **Deep Learning Projects**
    * [Basic Image Classification with TensorFlow](https://www.coursera.org/account/accomplishments/verify/KM9B7Q3XTLKV) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/KM9B7Q3XTLKV)   
    * [Image Classification with CNNs using Keras](https://www.coursera.org/account/accomplishments/verify/QSK2R6G8Z4CL) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/QSK2R6G8Z4CL)    
