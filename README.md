@@ -31,3 +31,7 @@
 
 ## Master Program in Artificial Intelligence Engineer (SimpliLearn)
 1. [Introduction to Artificial Intelligence](https://certificates.simplicdn.net/share/2135174.pdf)
+
+
+## Other Certifications
+1. [Tableau Desktop 10](https://certificates.simplicdn.net/share/2183946.pdf)
