@@ -31,6 +31,7 @@
 
 ## Master Program in Artificial Intelligence Engineer (SimpliLearn)
 1. [Introduction to Artificial Intelligence](https://certificates.simplicdn.net/share/2135174.pdf)
+2. [Advanced Certification in Machine Learning](https://certificates.simplicdn.net/share/2205559.pdf)
 
 
 ## Other Certifications
