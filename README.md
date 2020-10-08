@@ -24,6 +24,7 @@
    * [Basic Image Classification with TensorFlow](https://www.coursera.org/account/accomplishments/verify/KM9B7Q3XTLKV) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/KM9B7Q3XTLKV)   
    * [Image Classification with CNNs using Keras](https://www.coursera.org/account/accomplishments/verify/QSK2R6G8Z4CL) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/QSK2R6G8Z4CL)    
    * [Facial Expression Recognition with Keras](https://www.coursera.org/account/accomplishments/verify/KT8WSPK5NBAE) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/KT8WSPK5NBAE)  
+   * [Image Noise Reduction with Auto-encoders using TensorFlow](https://www.coursera.org/account/accomplishments/verify/8D3VUKDHYPRJ) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/8D3VUKDHYPRJ)  
    
 
 ## Digital Badges ([Profile](https://www.youracclaim.com/users/shraman-gupta/badges))
