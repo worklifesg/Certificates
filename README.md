@@ -27,6 +27,7 @@
    * [Image Noise Reduction with Auto-encoders using TensorFlow](https://www.coursera.org/account/accomplishments/verify/8D3VUKDHYPRJ) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/8D3VUKDHYPRJ) 
    * [Dimensionality Reduction using an Autoencoder in Python](https://www.coursera.org/account/accomplishments/verify/X2P3XFP3WVLM) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/X2P3XFP3WVLM) 
    * [Anomaly Detection in Time Series Data with Keras](https://www.coursera.org/account/accomplishments/verify/4P6J4JQGDJZB) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/4P6J4JQGDJZB) 
+   * [Generate Synthetic Images with DCGANs in Keras](https://www.coursera.org/account/accomplishments/verify/RSC5T2G6M9XE) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/RSC5T2G6M9XE) 
    
 
 ## Digital Badges ([Profile](https://www.youracclaim.com/users/shraman-gupta/badges))
