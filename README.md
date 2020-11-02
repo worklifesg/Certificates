@@ -11,7 +11,11 @@
    * [Machine Learning with Python](https://www.coursera.org/account/accomplishments/records/7VDM44AWHGGN) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/7VDM44AWHGGN)
    * [Introduction to Deep Learning & Neural Networks with Keras](https://www.coursera.org/account/accomplishments/records/9TPL65PZRDRZ) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/9TPL65PZRDRZ)
    * [Building Deep Learning Models with TensorFlow](https://www.coursera.org/account/accomplishments/verify/5QZ4N3L59RK9) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/5QZ4N3L59RK9)
-4. Coursera Guided Projects
+
+4. Udemy Data Science/ Machine Learning / Deep Learning Courses
+   * [Interactive Python Dashboards with Plotly and Dash](https://concordia.udemy.com/certificate/UC-bbdd94a3-4483-4854-8006-75ab9abda4dd/)
+
+5. Coursera Guided Projects
 
    **Data Exploration, Data Mining Projects:**
    * [Exploratory Data Analysis](https://www.coursera.org/account/accomplishments/verify/LJ6M5JHWFRE4) - [Certificate](https://www.coursera.org/account/accomplishments/certificate/LJ6M5JHWFRE4) 
