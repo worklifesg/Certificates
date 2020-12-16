@@ -44,6 +44,7 @@
 1. [Introduction to Artificial Intelligence](https://certificates.simplicdn.net/share/2135174.pdf)
 2. [Advanced Certification in Machine Learning](https://certificates.simplicdn.net/share/2205559.pdf)
 3. [Advanced Deep Learning and Computer Vision](https://certificates.simplicdn.net/share/2245271.pdf)
+4. [Deep learning for NLP using Python](https://certificates.simplicdn.net/share/2332403.pdf)
 
 
 ## Other Certifications
