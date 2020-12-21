@@ -14,6 +14,8 @@
 
 4. Udemy Data Science/ Machine Learning / Deep Learning Courses
    * [Interactive Python Dashboards with Plotly and Dash](https://concordia.udemy.com/certificate/UC-bbdd94a3-4483-4854-8006-75ab9abda4dd/)
+   * [Python for Computer Vision with OpenCV and Deep Learning](https://concordia.udemy.com/certificate/UC-e2d142f3-6723-45b1-b9fd-9efd3a2d9dbf/)
+   
 
 5. Coursera Guided Projects
 
